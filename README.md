@@ -1,2 +1,2 @@
 # Wildfires-W207
-w207 machine learning final project: predicting wildfire size in California 
+Machine learning final project to predict wildfire size in California and hopefully prevent large fires.
